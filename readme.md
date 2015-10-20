@@ -25,18 +25,18 @@ Stage files to commit
 
 $ git add <filename> - Adds file contents to the index
 
-`$ git add -A` - __Fill Me Out__
+`$ git add -A` - Commit a snapshot of all changes in the working directory
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - Record changes to the repository
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - List, create, or delete branches
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - List, create, or delete branches
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` -  Switch branches or restore working tree files
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - Join two or more development histories together
